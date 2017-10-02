@@ -1,0 +1,84 @@
+$white: #ffffff !default;
+$black: #333333 !default;
+$grey: #c0c0c0 !default;
+$red: #ed5565 !default;
+$green: #a0d468 !default;
+$blue: #4fc1e9 !default;
+$yellow: #ffce54 !default;
+$orange: #FF5400 !default;
+$brown: #e9573f !default;
+$purple: #ac92ec !default;
+$pink: #ec87c0 !default;
+$blackDark: darken($black, 10%) !default;
+$blackDarker: darken($black, 20%) !default;
+$blackLight: lighten($black, 10%) !default;
+$blackLighter: lighten($black, 20%) !default;
+$blueDark: darken($blue, 10%) !default;
+$blueDarker: darken($blue, 20%) !default;
+$blueLight: lighten($blue, 10%) !default;
+$blueLighter: #CCEAF8 !default;
+$blueFb: #3a5999 !default;
+$greenDark: darken($green, 10%) !default;
+$greenDarker: darken($green, 20%) !default;
+$greenLight: lighten($green, 10%) !default;
+$greenLighter: lighten($green, 20%) !default;
+$greyDark: darken($grey, 10%) !default;
+$greyDarker: #666 !default;
+$greyLight: lighten($grey, 10%) !default;
+$greyLighter: #eaeaea !default;
+$orangeDark: darken($orange, 10%) !default;
+$orangeDarker: darken($orange, 20%) !default;
+$orangeLight: lighten($orange, 10%) !default;
+$orangeLighter: lighten($orange, 20%) !default;
+$redDark: darken($red, 10%) !default;
+$redDarker: darken($red, 20%) !default;
+$redLight: lighten($red, 10%) !default;
+$redLighter: lighten($red, 20%) !default;
+$brownDark: darken($brown, 10%) !default;
+$brownDarker: darken($brown, 20%) !default;
+$brownLight: lighten($brown, 10%) !default;
+$brownLighter: lighten($brown, 20%) !default;
+$purpleDark: darken($purple, 10%) !default;
+$purpleDarker: darken($purple, 20%) !default;
+$purpleLight: lighten($purple, 10%) !default;
+$purpleLighter: lighten($purple, 20%) !default;
+$pinkDark: darken($pink, 10%) !default;
+$pinkDarker: darken($pink, 20%) !default;
+$pinkLight: lighten($pink, 10%) !default;
+$pinkLighter: lighten($pink, 20%) !default;
+$yellowDark: darken($yellow, 10%) !default;
+$yellowDarker: darken($yellow, 20%) !default;
+$yellowLight: lighten($yellow, 10%) !default;
+$yellowLighter: #faf5b1;
+$buttonVariansName: green,
+red,
+blue,
+orange,
+gray,
+purple,
+pink,
+white;
+$buttonVariansHex: $green,
+$red,
+$blue,
+$orange,
+$grey,
+$purple,
+$pink,
+$white;
+$buttonVariansHover: $greenLight,
+$redLight,
+$blueLight,
+$orangeLight,
+$greyLight,
+$purpleLight,
+$pinkLight,
+$white;
+$buttonVariansFont: $white,
+$white,
+$white,
+$white,
+$white,
+$white,
+$black,
+$black;
